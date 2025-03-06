@@ -1,0 +1,3 @@
+C:/Users/cityf/CLionProjects/obsfuscated_even_or_odd/cmake-build-debug/CMakeFiles/obfuscated_even_or_odd.dir
+C:/Users/cityf/CLionProjects/obsfuscated_even_or_odd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cityf/CLionProjects/obsfuscated_even_or_odd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
